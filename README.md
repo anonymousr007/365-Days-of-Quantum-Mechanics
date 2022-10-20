@@ -1,4 +1,4 @@
-## 365-Days-of-Quantum-Mechanics
+## 365 Days of Quantum Mechanics
 
 ### [MIT 8.04 Quantum Physics I, Spring 2016](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2016/) - [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G)
 
@@ -117,3 +117,36 @@
 - [113. The simplest quantum system]()
 - [114. Hamiltonian and emerging spin angular momentum]()
 - [115. Eigenstates of the Hamiltonian]()
+
+### [MIT 8.06 Quantum Physics III, Spring 2018](https://ocw.mit.edu/courses/8-06-quantum-physics-iii-spring-2018/) - [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L)
+
+- **Lecture 1**
+  - L1.1 General problem. Non-degenerate perturbation theory
+  - L1.2 Setting up the perturbative equations
+  - L1.3 Calculating the energy corrections
+  - L1.4 First order correction to the state. Second order correction to energy
+- **Lecture 2**
+  - 
+- **Lecture 3**
+- **Lecture 4**
+- **Lecture 5**
+- **Lecture 6**
+- **Lecture 7**
+- **Lecture 8**
+- **Lecture 9**
+- **Lecture 10**
+- **Lecture 11**
+- **Lecture 12**
+- **Lecture 13**
+- **Lecture 14**
+- **Lecture 15**
+- **Lecture 16**
+- **Lecture 17**
+- **Lecture 18**
+- **Lecture 19**
+- **Lecture 20**
+- **Lecture 21**
+- **Lecture 22**
+- **Lecture 23**
+- **Lecture 24**
+
