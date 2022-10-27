@@ -281,9 +281,31 @@
   - B Material particles and matter waves
   - C Quantum description of a particle. Wave packets
   - D Particle in a time-independent scalar potential
-  
-  
-
+- READER’S GUIDE FOR COMPLEMENTS 33
+  - AI Order of magnitude of the wavelengths associated with material particles
+  - BI Constraints imposed by the uncertainty relations
+    - 1 Macroscopic system
+    - 2 Microscopic system
+  - CI Heisenberg relation and atomic parameters
+  - DI An experiment illustrating the Heisenberg relations
+  - EI A simple treatment of a two-dimensional wave packet
+    - 1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+    - 2 Angular dispersion and lateral dimensions . . . . . . . . . . . . . . . . . . . . 49
+    - 3 Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+  - FI The relationship between one- and three-dimensional problems
+    - 1 Three-dimensional wave packet . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+    - 2 Justification of one-dimensional models . . . . . . . . . . . . . . . . . . . . . 56
+  - GI One-dimensional Gaussian wave packet: spreading of the wave packet
+    - 1 Definition of a Gaussian wave packet . . . . . . . . . . . . . . . . . . . . . . . 57
+    - 2 Calculation of and ; uncertainty relation . . . . . . . . . . . . . . . . . 58
+    - 3 Evolution of the wave packet . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+  - HI Stationary states of a particle in one-dimensional square potentials
+    - 1 Behavior of a stationary wave function ( ) . . . . . . . . . . . . . . . . . . . 63
+    - 2 Some simple cases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+  - JI Behavior of a wave packet at a potential step 75
+    - 1 Total reflection: 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+    - 2 Partial reflection: 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
+  - KI Exercises 83
 
 
 
