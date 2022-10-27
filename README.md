@@ -278,9 +278,20 @@
 
 - I WAVES AND PARTICLES. INTRODUCTION TO THE BASIC IDEAS OF QUANTUM MECHANICS
   - A Electromagnetic waves and photons
+    - A-1 Light quanta and the Planck-Einstein relations
+    - A-2 Wave-particle duality
+    - A-3 The principle of spectral decomposition
   - B Material particles and matter waves
+    - B-1 The de Broglie relations
+    - B-2 Wave functions. Schrödinger equation
   - C Quantum description of a particle. Wave packets
+    - C-1 Free particle
+    - C-2 Form of the wave packet at a given time
+    - C-3 Heisenberg relations
+    - C-4 Time evolution of a free wave packet . 
   - D Particle in a time-independent scalar potential
+    - D-1 Separation of variables. Stationary states
+    - D-2 One-dimensional “square” potentials. Qualitative study 
 - READER’S GUIDE FOR COMPLEMENTS 33
   - AI Order of magnitude of the wavelengths associated with material particles
   - BI Constraints imposed by the uncertainty relations
@@ -289,37 +300,31 @@
   - CI Heisenberg relation and atomic parameters
   - DI An experiment illustrating the Heisenberg relations
   - EI A simple treatment of a two-dimensional wave packet
-    - 1 Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
-    - 2 Angular dispersion and lateral dimensions . . . . . . . . . . . . . . . . . . . . 49
-    - 3 Discussion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+    - 1 Introduction
+    - 2 Angular dispersion and lateral dimensions
+    - 3 Discussion
   - FI The relationship between one- and three-dimensional problems
-    - 1 Three-dimensional wave packet . . . . . . . . . . . . . . . . . . . . . . . . . . 53
-    - 2 Justification of one-dimensional models . . . . . . . . . . . . . . . . . . . . . 56
+    - 1 Three-dimensional wave packet
+      - 1-a Simple Case
+      - 1-b General Case
+    - 2 Justification of one-dimensional models
   - GI One-dimensional Gaussian wave packet: spreading of the wave packet
-    - 1 Definition of a Gaussian wave packet . . . . . . . . . . . . . . . . . . . . . . . 57
-    - 2 Calculation of and ; uncertainty relation . . . . . . . . . . . . . . . . . 58
-    - 3 Evolution of the wave packet . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+    - 1 Definition of a Gaussian wave packet
+    - 2 Calculation of DELTA(x) and DELTA(p); uncertainty relation
+    - 3 Evolution of the wave packet
+      - 3-a Calculation of PSI(x,t)
+      - 3-b Velocity of the wave packet
+      - 3-c Spreading of the wave packet
   - HI Stationary states of a particle in one-dimensional square potentials
-    - 1 Behavior of a stationary wave function ( ) . . . . . . . . . . . . . . . . . . . 63
-    - 2 Some simple cases . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
-  - JI Behavior of a wave packet at a potential step 75
-    - 1 Total reflection: 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
-    - 2 Partial reflection: 0 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 79
-  - KI Exercises 83
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    - 1 Behavior of a stationary wave function PHI(x)
+      - 1-a Regions of constant potential energy
+      - 1-b Behavior of PHI(x) at a potential energy discontinuity
+      - 1-c Outline of the calculation
+    - 2 Some simple cases
+      - 2-a Potential steps
+      - 2-b Potential barriers
+      - 2-c Bound states: square well potential
+  - JI Behavior of a wave packet at a potential step
+    - 1 Total reflection: E < V_O
+    - 2 Partial reflection: E > V_O
+  - KI Exercises
