@@ -274,3 +274,30 @@
   - L24.3 The symmetrization postulate
   - L24.4 The symmetrization postulate (continued)
 
+### Quantum Mechanics - Volume I - Basic Concepts, Tools, and Applications by Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë
+
+- I WAVES AND PARTICLES. INTRODUCTION TO THE BASIC IDEAS OF QUANTUM MECHANICS
+  - A Electromagnetic waves and photons
+  - B Material particles and matter waves
+  - C Quantum description of a particle. Wave packets
+  - D Particle in a time-independent scalar potential
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
