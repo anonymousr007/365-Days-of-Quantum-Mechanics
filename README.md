@@ -276,53 +276,31 @@
 
 ### [MIT 8.04 Quantum Physics I, Spring 2013 (2013)](https://ocw.mit.edu/courses/8-04-quantum-physics-i-spring-2013/) - [Youtube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr)
 
-- Lecture 1: Introduction to Superposition
-Lecture 2: Experimental Facts of Life
-Lecture 3: The Wave Function
-Lecture 4: Expectations, Momentum, and Uncertainty
-Lecture 5: Operators and the Schrödinger Equation
-Lecture 6: Time Evolution and the Schrödinger Equation
-Lecture 7: More on Energy Eigenstates
-Lecture 8: Quantum Harmonic Oscillator
-Lecture 9: Operator Methods for the Harmonic Oscillator
-Lecture 10: Clicker Bonanza and Dirac Notation
-Lecture 11: Dispersion of the Gaussian and the Finite Well
-Lecture 12: The Dirac Well and Scattering off the Finite Step
-Lecture 13: More on Scattering
-Lecture 14: Resonance and the S-Matrix
-Lecture 15: Eigenstates of the Angular Momentum Part 1
-Lecture 16: Eigenstates of the Angular Momentum Part 2
-Lecture 17: More on Central Potentials
-Lecture 18: "Hydrogen" and its Discontents
-Lecture 19: Identical Particles
-Lecture 20: Periodic Lattices Part 1
-Lecture 21: Periodic Lattices Part 2
-Lecture 22: Metals, Insulators, and Semiconductors
-Lecture 23: More on Spin
-Lecture 24: Entanglement: QComputing, EPR, and Bell's Theorem
-Experiment 2: Effective Mass
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Lecture 1: Introduction to Superposition]()
+- [Lecture 2: Experimental Facts of Life]()
+- [Lecture 3: The Wave Function]()
+- [Lecture 4: Expectations, Momentum, and Uncertainty]()
+- [Lecture 5: Operators and the Schrödinger Equation]()
+- [Lecture 6: Time Evolution and the Schrödinger Equation]()
+- [Lecture 7: More on Energy Eigenstates]()
+- [Lecture 8: Quantum Harmonic Oscillator]()
+- [Lecture 9: Operator Methods for the Harmonic Oscillator]()
+- [Lecture 10: Clicker Bonanza and Dirac Notation]()
+- [Lecture 11: Dispersion of the Gaussian and the Finite Well]()
+- [Lecture 12: The Dirac Well and Scattering off the Finite Step]()
+- [Lecture 13: More on Scattering]()
+- [Lecture 14: Resonance and the S-Matrix]()
+- [Lecture 15: Eigenstates of the Angular Momentum Part 1]()
+- [Lecture 16: Eigenstates of the Angular Momentum Part 2]()
+- [Lecture 17: More on Central Potentials]()
+- [Lecture 18: "Hydrogen" and its Discontents]()
+- [Lecture 19: Identical Particles]()
+- [Lecture 20: Periodic Lattices Part 1]()
+- [Lecture 21: Periodic Lattices Part 2]()
+- [Lecture 22: Metals, Insulators, and Semiconductors]()
+- [Lecture 23: More on Spin]()
+- [Lecture 24: Entanglement: QComputing, EPR, and Bell's Theorem]()
+- [Experiment 2: Effective Mass]()
 
 
 ### Quantum Mechanics - Volume I - Basic Concepts, Tools, and Applications by Claude Cohen-Tannoudji, Bernard Diu, and Franck Laloë
